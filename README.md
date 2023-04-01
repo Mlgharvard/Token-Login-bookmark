@@ -14,4 +14,4 @@ Open Chrome, right click on the bookmark bar, paste.
 Go to https://discord.com, press on the new bookmark, paste the token, press OK
 ----
 ## Creator
-HR_1738Gz#1738
+https://discord.gg/NAhaCh3mZ4
